@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\CsharpMethod\CsharpMethod\bin\Debug\CsharpMethod.exe.config
+C:\Users\Owner\source\repos\CsharpMethod\CsharpMethod\bin\Debug\CsharpMethod.exe
+C:\Users\Owner\source\repos\CsharpMethod\CsharpMethod\bin\Debug\CsharpMethod.pdb
+C:\Users\Owner\source\repos\CsharpMethod\CsharpMethod\obj\Debug\CsharpMethod.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\CsharpMethod\CsharpMethod\obj\Debug\CsharpMethod.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CsharpMethod\CsharpMethod\obj\Debug\CsharpMethod.exe
+C:\Users\Owner\source\repos\CsharpMethod\CsharpMethod\obj\Debug\CsharpMethod.pdb
